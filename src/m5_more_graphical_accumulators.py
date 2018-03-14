@@ -375,8 +375,6 @@ def draw_lines_from_rectangles(rectangle1, rectangle2, n, window):
     window.render()
 
 
-
-
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
